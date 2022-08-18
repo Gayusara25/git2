@@ -15,7 +15,7 @@ namespace git2
             number = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("You entered :{0}", number);
-            Console.ReadLine();
+            Console.WriteLine();
         }
     }
 }
